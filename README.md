@@ -1,2 +1,2 @@
 # start
-Simplify project launch
+Simplify project launch using Python
